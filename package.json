@@ -1,0 +1,16 @@
+{
+  "name": "little-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "graphpack"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "graphpack": "^1.0.9",
+    "typescript": "^4.8.4"
+  }
+}
